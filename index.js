@@ -44,7 +44,7 @@ const Crypto = require('crypto')
 const path = require('path')
 const prefix = config.PREFIX
 
-const ownerNumber = ['254734939236']
+const ownerNumber = ['254717276195']
 
 const tempDir = path.join(os.tmpdir(), 'cache-temp')
 if (!fs.existsSync(tempDir)) {
@@ -135,7 +135,7 @@ async function connectToWA() {
 
           let up = `*Hᴇʟʟᴏ ᴛʜᴇʀᴇ 『TREND-X』 ᴄᴏɴɴᴇᴄᴛᴇᴅ! 👋🏻* 
 
-*ᴋᴇᴇᴘ ᴏɴ ᴜsɪɴɢ 『TREND-X』🚩* 
+*ᴋᴇᴇᴘ ᴏɴ ᴜsɪɴɢ 『BRIAN-X』🚩* 
 
 
 - *ʏᴏᴜʀ ʙᴏᴛ ᴘʀᴇғɪx: ➡️[ . ]*
@@ -144,7 +144,7 @@ async function connectToWA() {
 > ᴅᴏɴᴛ ғᴏʀɢᴇᴛ ᴛᴏ sʜᴀʀᴇ, sᴛᴀʀ & ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ⬇️ 
 https://github.com/trendex2030/TREND-X
 
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ TRENDEX`;
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ BRIAN`;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/adymbp.jpg` }, caption: up })
 
           const channelJid = "120363400575205721@newsletter"
