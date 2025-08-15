@@ -40,7 +40,7 @@ PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
 BOT_NAME: process.env.BOT_NAME || "BRIAN-X",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "TREND-X",
+STICKER_NAME: process.env.STICKER_NAME || "BRIAN-X",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -52,11 +52,11 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "254717276195",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "BRIAN",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© POWERED TRENDEX KING*",
+DESCRIPTION: process.env.DESCRIPTION || "*© POWERED BRIAN KING*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/adymbp.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> Powered by *TREND-X TECH*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> Powered by *BOYER-X TECH*⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
@@ -64,7 +64,7 @@ AUTO_REACT: process.env.AUTO_REACT || "false",
 // make this true or false for auto react on all msgs
 ANTI_BAD: process.env.ANTI_BAD || "false",
 // false or true for anti bad words  
-MODE: process.env.MODE || "public",
+MODE: process.env.MODE || "private",
 // make bot public-private-inbox-group 
 ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "false",
 // make anti link true,false for groups 
