@@ -1,5 +1,5 @@
 {
-  "name": "TREND-X",
+  "name": "BOYER-X",
   "description": "An Advanced Whatsapp bot 🚀 built for fast automation, media tool, and smooth group management developed by trendex tech",
   "logo": "https://files.catbox.moe/adymbp.jpg",
   "keywords": ["TREND-X"],
@@ -85,7 +85,7 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "TREND-X"
+      "value": "BN-X"
 }, 
 
     "OWNER_NUMBER": {
@@ -192,7 +192,7 @@
     "WELCOME": {
       "description": "make it true if want goodbye and welcome message in groups.",
       "required": false,
-      "value": "true"
+      "value": "false"
      },
     "ANTICALL": {
       "description": "Make it true if you want bot to block incoming calls.",
